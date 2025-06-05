@@ -1,0 +1,33 @@
+﻿# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.app
+*.pdb
+
+# Rider-specific
+.idea/
+*.sln.iml
+
+# User-specific
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# VS Code (jeśli używasz)
+.vscode/
+
+# Rider run configs
+.idea/runConfigurations/
